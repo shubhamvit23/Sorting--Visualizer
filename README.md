@@ -3,5 +3,5 @@
 _Link-_[Sorting Visualizer](https://62cdd0574c6a57009c155311--earnest-beijinho-42d158.netlify.app/) <br/>
 ![Initail](https://github.com/shubhamvit23/Sorting--Visualizer/blob/main/intial.jpg)<br/>
 ![Running](https://github.com/shubhamvit23/Sorting--Visualizer/blob/main/running.jpg)<br/>
-![[Final](https://github.com/shubhamvit23/Sorting--Visualizer/blob/main/finished.jpg)
+![Final](https://github.com/shubhamvit23/Sorting--Visualizer/blob/main/finished.jpg)
 
